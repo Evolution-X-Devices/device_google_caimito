@@ -40,3 +40,4 @@ include device/google/caimito/wifi/BoardConfig-wifi.mk
 DEVICE_PATH := device/google/caimito
 VENDOR_PATH := vendor/google/caiman
 include $(DEVICE_PATH)/$(TARGET_BOOTLOADER_BOARD_NAME)/BoardConfigLineage.mk
+include $(DEVICE_PATH)/$(TARGET_BOOTLOADER_BOARD_NAME)/BoardConfigEvolution.mk
