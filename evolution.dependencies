@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_device_google_zumapro",
+    "repository": "device_google_zumapro",
     "target_path": "device/google/zumapro"
   },
   {
