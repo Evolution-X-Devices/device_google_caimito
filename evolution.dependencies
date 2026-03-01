@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "device_google_zumapro",
+    "target_path": "device/google/zumapro"
+  },
+  {
+    "remote": "evo-devices",
+    "repository": "device_google_caimito-kernels_evolution",
+    "target_path": "device/google/caimito-kernels/evolution"
+  },
+  {
+    "remote": "evo-devices",
+    "repository": "vendor_google_tokay",
+    "target_path": "vendor/google/tokay"
+  },
+  {
+    "remote": "evo-devices",
+    "repository": "vendor_google_caiman",
+    "target_path": "vendor/google/caiman"
+  },
+  {
+    "remote": "evo-devices",
+    "repository": "vendor_google_komodo",
+    "target_path": "vendor/google/komodo"
+  }
+]

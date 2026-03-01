@@ -16,3 +16,5 @@ BOARD_VENDOR_SEPOLICY_DIRS += \
 include $(DEVICE_PATH)/BoardConfigCommon.mk
 
 include $(VENDOR_PATH)/BoardConfigVendor.mk
+
+include $(DEVICE_PATH)/$(TARGET_BOOTLOADER_BOARD_NAME)/BoardConfigEvolution.mk
