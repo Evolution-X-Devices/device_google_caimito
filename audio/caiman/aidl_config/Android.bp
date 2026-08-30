@@ -25,6 +25,12 @@ package {
 }
 
 prebuilt_etc {
+    name: "audio_effects.xml",
+    src: "audio_effects.xml",
+    vendor: true,
+}
+
+prebuilt_etc {
     name: "audio_policy_volumes.xml",
     src: "audio_policy_volumes.xml",
     soc_specific: true,
